@@ -3,7 +3,7 @@
 
 Welcome to our debt settlement app repository! This project is developed by students of the [Hertie School](https://www.hertie-school.org/en/) for a Data Structures and Algorithm course. We aim to create an application that assists users in managing and settling their debts effectively.
 
-Link to our prototype: tba
+Link to our prototype: https://elena3er.pythonanywhere.com/
 
 ## Features 
 
